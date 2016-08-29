@@ -1,0 +1,17 @@
+{
+  "name": "mustache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mustache.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jquery": "^3.1.0",
+    "mustache": "^2.2.1",
+    "webpack": "^1.13.2"
+  }
+}
